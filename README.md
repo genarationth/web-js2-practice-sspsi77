@@ -12,7 +12,7 @@
 Work in pairs to complete the following table:
 
 | Value to be converted | number()  | String()  | Boolean() |
-|-----------------------|--------- -|--------- -|-----------|
+|-----------------------|-----------|-----------|-----------|
 | false                 |    0      | "false"   |   false   |
 | true                  |    1      | "true"    |   true    |
 | 0                     |    0      |   "0"     |   false   |
